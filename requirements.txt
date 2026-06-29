@@ -1,0 +1,9 @@
+groq
+streamlit
+sentence-transformers
+pdfplumber
+azure-cosmos
+requests
+python-dotenv
+numpy
+azure-search-documents
