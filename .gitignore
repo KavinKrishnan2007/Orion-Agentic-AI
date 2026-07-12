@@ -1,6 +1,24 @@
+# Secrets
 .env
+.env.*
+.streamlit/secrets.toml
+
+# Python
 .venv/
 venv/
 __pycache__/
-*.pyc
-.streamlit/secrets.toml
+*.py[cod]
+*.egg-info/
+
+# Model and Tool Caches
+.fastembed_cache/
+.cache/
+
+# IDE and OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
